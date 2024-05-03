@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "463853160761",
+    "project_id": "pregnurture-f65cf",
+    "storage_bucket": "pregnurture-f65cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463853160761:android:9d1aa02a9222d43cd100e8",
+        "android_client_info": {
+          "package_name": "com.example.preg_nurture"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCrx2ENli_ugwLvCtyNCC5RxYJGxm4AE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
